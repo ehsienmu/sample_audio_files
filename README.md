@@ -27,5 +27,5 @@ https://github.com/ehsienmu/sample_audio_files/assets/43429849/f339b081-cd69-42e
  + voice conversion from source X to target Y(spoofing sample)
 
 ### noise + Z(voice conversion clip (source B, target A))
-https://github.com/ehsienmu/sample_audio_files/assets/43429849/922c4601-8824-40af-8dfd-8f89164b5452
+https://github.com/ehsienmu/sample_audio_files/assets/43429849/eecdcfbf-6fbb-43ca-b60f-4af15681d743
 
